@@ -39,7 +39,6 @@ public class ShoppingBasketCalculator {
                     break;
             }
         }
-
         return totalCost;
     }
 }
